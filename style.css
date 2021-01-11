@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:ital,wght@0,200;1,200&display=swap');
+
+#main {
+    background-color: #0f0f0f;
+}
+
+#title {
+    color: #dfdcdc;
+    font-family: "Piazzolla", "monospace";
+    font-size: 50px;
+    text-align: center;
+    height: 25px;
+}
+
+#subtitulo {
+    color: #dfdcdc;
+    text-align: center;
+    margin: 1px auto 30px auto;
+    font-size: 15px;
+    font-family: "Piazzolla", "monospace";
+    font-style: italic;
+}
+
+#image {
+    border: 1px solid;
+    border-radius: 5px;
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+}
+
+h6 {
+    color: #f2f2f2;
+    font-size: 13px;
+    font-family: "Piazzolla";
+    font-style: italic;
+    text-align: center;
+    margin: 0px auto 5px auto;
+}
+
+p {
+    padding: 10px 100px 40px 100px;
+    color: #eee9e9;
+    font-family: "Piazzolla";
+}
+
+#p1 {
+    font-style: italic;
+}
+
+#p2 {
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 1000px;
+    padding: 1px 10px 200px 10px;
+    color: #F2F0F0;
+    background-color: rgb(229, 229, 229, 0.2);
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#p3 {
+    font-style: italic;
+}
+
+a {
+    display: block; 
+    text-align: right;
+}
+
+#tribute-info {
+    color: #f2f2f2;
+    font-size: 12px;
+    font-family: "Piazzolla";
+    font-style: italic;
+}
